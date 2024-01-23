@@ -9,6 +9,7 @@ Web test untuk calon asisten adalah suatu ujian tertulis yang dilakukan secara d
  Tes tertulis biasanya mencakup pertanyaan-pertanyaan pilihan ganda/pun essai 
  - Bootstrap
 - Fontawesome
+- boxicons
 
 
 Penjelasan mengenai arsitektur MVC:
