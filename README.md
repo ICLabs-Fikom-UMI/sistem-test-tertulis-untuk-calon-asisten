@@ -22,9 +22,9 @@ MVP (Minimum Viable Product) untuk aplikasi web test calon asisten dosen dapat m
 -View, Menampilkan informasi kepada pengguna.
 -Controller, Menangani input, memprosesnya, dan mengoordinasikan Model dan View.
 
-### LINK UML  [Click here] (https://app.diagrams.net/#G1H08hZBKfQP4OtD13OpXpzoYYxBtHealz#%7B%22pageId%22%3A%22lp8ffgGrR9vtIaX2TlVf%22%7D)
-### LINK ERD  [Click here] (https://app.diagrams.net/#G1H08hZBKfQP4OtD13OpXpzoYYxBtHealz#%7B%22pageId%22%3A%22lp8ffgGrR9vtIaX2TlVf%22%7D)
-### LINK UI/UX[Click here]  (https://www.figma.com/file/vRzbJbfVq4bwWwzjjxrF4p/Wireframing-(Copy)?type=design&node-id=0%3A1&mode=design&t=5FIsmPSUnGlirKIA-1)
+### LINK UML  [Click here](https://app.diagrams.net/#G1H08hZBKfQP4OtD13OpXpzoYYxBtHealz#%7B%22pageId%22%3A%22lp8ffgGrR9vtIaX2TlVf%22%7D)
+### LINK ERD  [Click here](https://app.diagrams.net/#G1H08hZBKfQP4OtD13OpXpzoYYxBtHealz#%7B%22pageId%22%3A%22lp8ffgGrR9vtIaX2TlVf%22%7D)
+### LINK UI/UX[Click here](https://www.figma.com/file/vRzbJbfVq4bwWwzjjxrF4p/Wireframing-(Copy)?type=design&node-id=0%3A1&mode=design&t=5FIsmPSUnGlirKIA-1)
 
 > [!CAUTION]
 > PHP VERSION 8.3.2
